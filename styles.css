@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans|Roboto:400,700&display=swap");
+
+
+
+
+body{
+    font-family: "Open Sans", sans-serif;
+    background: rgb(131,58,180);
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+}
+
+.container{ 
+    top: 50%;
+    left: 50%;
+    position: absolute; 
+    transform: translate(-50%, -50%); 
+    border: 13px solid rgb(146, 16, 16);
+    padding-inline: 80px;
+    padding-block: 80px;
+    text-align: center;
+}
+
+h1{ 
+    text-align: center;
+
+}
+
